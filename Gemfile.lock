@@ -8,3 +8,4 @@ PLATFORMS
 
 DEPENDENCIES
   excon (= 1.0.0)
+  rubocop (= 1.67.0)
